@@ -123,6 +123,7 @@ Enemy.prototype = {
 	
 }
 
+console.log(12323)
 
 
 
